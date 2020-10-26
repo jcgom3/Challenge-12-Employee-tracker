@@ -57,5 +57,5 @@ N/A
 # Questions?
 ## Please contact me:
   * [My GitHub Profile](https://github.com/jcgom3)
-  * [My Github Project Repository]( https://jcgom3.github.io/Challenge-12-Employee-Tracker)
+  * [My Github Project Repository](https://github.com/jcgom3/Challenge-12-Employee-tracker)
   * Email me at: [Jcgom3@gmail.com](mailto:Jcgom3@gmail.com) with questions or make an issue about this project.)
