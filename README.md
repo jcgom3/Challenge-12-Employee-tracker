@@ -11,7 +11,7 @@
 
 
 # Mockup Image
-![screenshot](assets/images/EmployeeTrackerMockUp.png)
+![screenshot](/assets/images/EmployeeTrackerMockUp.png)
 
 
 # Summary
@@ -43,7 +43,7 @@ This app allows users to view, add, update and remove employees using MySQL, nod
 In order to use this app, install the node dependencies shown on package.json & database setup. Run the app in the terminal on VS Code use node index.js or npm start. Click on the video for a demonstration. 
 
 # Demo
-[![Demo-Video](assets/images/DemoVideo.png)](https://drive.google.com/file/d/1xku3czx9ohAm6mjLjGFPXLY2dKMa7Hy6/view)
+[![Demo-Video](/assets/images/DemoVideo.png)](https://drive.google.com/file/d/1xku3czx9ohAm6mjLjGFPXLY2dKMa7Hy6/view)
 
 # License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
